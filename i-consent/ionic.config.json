@@ -1,0 +1,7 @@
+{
+  "name": "i-consent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
